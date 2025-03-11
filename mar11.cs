@@ -1,4 +1,4 @@
-Today I did module 4 lesson 1 in Microsoft Learn. This is what I learned about. 
+//Today I did module 4 lesson 1 in Microsoft Learn. This is what I learned about. 
 
 Console.WriteLine("Generating invoices for customer \"Contoso Corp\" ... \n");
 Console.WriteLine("Invoice: 1021\t\tComplete!");
